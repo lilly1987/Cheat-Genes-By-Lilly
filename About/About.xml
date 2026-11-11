@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
 	<name>Cheat Genes By Lilly</name>
@@ -54,4 +54,4 @@ KNOWN ISSUES
 
 CREDITS
 Based on Cheat Genes by antisocialian. Updated for 1.7, reorganized and expanded by dunforgor.</description>
-</ModMetaData>
+<modVersion>1.0</modVersion></ModMetaData>
